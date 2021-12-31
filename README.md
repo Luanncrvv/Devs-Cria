@@ -4,3 +4,5 @@ Intuito desse repositorio é compartilhar codigos que vcs acharem legais de se u
 Aos poucos vou emplementando as paradas. <br>
 
 Qualquer dica, ou ajuda entrar em contato comigo pelo Discord 😃
+
+  <a href="https://discord.gg/vbSDsUMYWV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
